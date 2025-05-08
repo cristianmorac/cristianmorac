@@ -24,9 +24,11 @@
 
 <p align="center">
 <a href="https://github.com/cristianmorac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianmorac&show_icons=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=cristianmorac&theme=darkhub"/>
-
+  <img height="180em" src="https://streak-stats.demolab.com/?user=cristianmorac&theme=dark&hide_border=tru"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianmorac&show_icons=true&count_private=true&theme=tokyonight"/>
+  
 </a>
-https://github-profile-trophy.vercel.app/?username=cristianmorac&theme=darkhub
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me
