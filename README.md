@@ -1,6 +1,16 @@
-<h1 align='center'>Hola, Soy Cristian Mora con formación en DevOps, servicios en la nube y on premise</h1>
+<h3 align="center">Hola yo soy <a href="https://freshidea.com/jonah/">Cristian Mora</a> - DevOps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+----
+## 📖 About me
+
+* 💻 Yo soy Devops, administrador On premise y Cloud
+* 🎨 Soy apacionado por la tecnologia y como a traves del codigo se crean muchas cosas
+* 📱 Estoy enfocado en la creación de infraestructura como código
+* 🎓 Estoy por terminar mis estudios en Ingenieria de sistemas
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,6 +29,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
+
+&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -30,4 +43,16 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🚀 **Proyectos** :computer_mouse: :desktop_computer: 
+
+| 💼 Tecnologías |  🏢 Repositorio | ⏰Descripción  |
+| :-: | :-: | :-: |
+| Ansible - Docker | [Wordpress-Automatizado](https://github.com/cristianmorac/docker-ansible-wordpress) | Instalar Wordpress - mariadb - apache2 de manera remota con Ansible |
+| Terraform - AWS | [IaC](https://github.com/cristianmorac/TF_EC2_VPC) | Crear security group, VPC y EC2 con terraform |
+| Ansible - Docker - GLPI | [Despliegue GLPI](https://github.com/cristianmorac/ansible-docker/) | Se realiza instalación y despliegue de GLPI con Ansible |
+
+### 🤝🏻 &nbsp;Conecta conmigo
+
+<a href="https://github.com/cristianmorac" target="_blank"><img src="https://img.shields.io/badge/Github-cristianmorac-green?style=for-the-badge&logo=github"></a>
+
+<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EmaiL-cristianfmorac@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
