@@ -19,11 +19,14 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/cristianmorac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianmorac&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=cristianmorac&theme=darkhub"/>
+
 </a>
+https://github-profile-trophy.vercel.app/?username=cristianmorac&theme=darkhub
 </p>
