@@ -1,7 +1,7 @@
-<h3 align="center">Hola yo soy <a href="https://freshidea.com/jonah/">Cristian Mora</a> - DevOps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hola yo soy <a href="https://freshidea.com/jonah/">Cristian Mora</a> - Apacionado por la cultura DevOps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ----
-## 📖 About me
+## 📖 Sobre mí
 
 * 💻 Yo soy Devops, administrador On premise y Cloud
 * 🎨 Soy apacionado por la tecnologia y como a traves del codigo se crean muchas cosas
