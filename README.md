@@ -48,6 +48,7 @@
 | Ansible - Docker | [Wordpress-Automatizado](https://github.com/cristianmorac/docker-ansible-wordpress) | Instalar Wordpress - mariadb - apache2 de manera remota con Ansible |
 | Terraform - AWS | [IaC](https://github.com/cristianmorac/TF_EC2_VPC) | Crear security group, VPC y EC2 con terraform |
 | Ansible - Docker - GLPI | [Despliegue GLPI](https://github.com/cristianmorac/ansible-docker/) | Se realiza instalación y despliegue de GLPI con Ansible |
+| Comunidad - Desafío DevOps | [Desafío DevOps por Roxsross ](https://github.com/cristianmorac/90devops-nginx-bootstrap.git) | Casos reales en Devops |
 
 ### 🤝🏻 &nbsp;Conecta conmigo
 
